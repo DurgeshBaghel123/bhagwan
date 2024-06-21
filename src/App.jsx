@@ -16,7 +16,7 @@ function App() {
     {todos.length > 0 &&(
           <button className='btn btn-danger btn-md delete-all'onClick={()=>dispatch(deleteAll())}>DELETE ALL</button>
     )} */}
-    <h1>Hello</h1>
+    <h1>Hello world</h1>
     
     </>
   )
