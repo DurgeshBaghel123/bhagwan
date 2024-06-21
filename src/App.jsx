@@ -17,7 +17,8 @@ function App() {
           <button className='btn btn-danger btn-md delete-all'onClick={()=>dispatch(deleteAll())}>DELETE ALL</button>
     )} */}
     <h1>Hello world</h1>
-    
+
+      <p>papa ka naam roshni bagh</p>
     </>
   )
 }
